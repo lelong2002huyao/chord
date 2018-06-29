@@ -558,7 +558,6 @@ namespace DigitalPlatform.Marc
             return result.ToString();
         }
 
-#if NO
         #region ISO2709 --> 机内格式
 
         // 把byte[]类型的MARC记录转换为机内格式
@@ -1100,8 +1099,6 @@ namespace DigitalPlatform.Marc
 
         #endregion
 
-#endif
-
         #region 机内格式 --> ISO2709
 
         // 将MARC机内格式转换为ISO2709格式
@@ -1435,8 +1432,6 @@ namespace DigitalPlatform.Marc
         }
 
         #endregion
-
-
     }
 
 

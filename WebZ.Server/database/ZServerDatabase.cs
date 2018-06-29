@@ -112,8 +112,7 @@ namespace WebZ.Server.database
 
             await this._collection.UpdateOneAsync(filter, update);
 
-            return await this.GetById(item.id);
-            //return item;
+            return item;
         }
 
 

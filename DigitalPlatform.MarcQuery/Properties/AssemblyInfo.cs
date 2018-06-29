@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // 特性集控制。更改这些特性值可修改
 // 与程序集关联的信息。
 [assembly: AssemblyTitle("DigitalPlatform.MarcQuery")]
-[assembly: AssemblyDescription("MARC 处理函数库")]
+[assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("数字平台(北京)软件有限责任公司")]
+[assembly: AssemblyCompany("")]
 [assembly: AssemblyProduct("DigitalPlatform.MarcQuery")]
 [assembly: AssemblyCopyright("Copyright ©  2013")]
 [assembly: AssemblyTrademark("")]
